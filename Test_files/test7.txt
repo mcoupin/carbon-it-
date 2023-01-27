@@ -1,0 +1,4 @@
+C - 2 - 2
+M - 3 - 3
+T - 5 - 6 - 5
+A - Lara - 2 - 2 - S - AADADAGGA
