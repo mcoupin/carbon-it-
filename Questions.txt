@@ -1,0 +1,2 @@
+Le fichier d'entrée a t'il un ordre par exemple C => M => T => A ? 
+Le fichier d'entrée est normé cad on ne peut pas avoir de lettres différentes
